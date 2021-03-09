@@ -1,7 +1,6 @@
 ---
 - name: Testing
   hosts: mint20
-  remote_user: root
   tasks:
     - name: docker pull
       command: 
