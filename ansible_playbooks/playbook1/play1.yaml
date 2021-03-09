@@ -1,0 +1,10 @@
+---
+- name: Testing
+  hosts: mint20
+  remote_user: root
+  tasks:
+    - name: docker pull
+      command: 
+        cmd: docker pull vazravasu/cli_calculator:latest
+        
+    
