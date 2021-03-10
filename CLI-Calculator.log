@@ -7,3 +7,6 @@
 2021-03-10 12:40:24.424 [Calculator.java] INFO  Calculator - add 6.5 + -1.5 = 5.0
 2021-03-10 12:40:24.429 [Calculator.java] INFO  Calculator - add -6.5 + -1.5 = -8.0
 2021-03-10 12:40:24.430 [Calculator.java] INFO  Calculator - add 3.5 + 1.5 = 5.0
+2021-03-10 12:43:23.558 [Calculator.java] INFO  Calculator - add 6.5 + -1.5 = 5.0
+2021-03-10 12:43:23.563 [Calculator.java] INFO  Calculator - add -6.5 + -1.5 = -8.0
+2021-03-10 12:43:23.565 [Calculator.java] INFO  Calculator - add 3.5 + 1.5 = 5.0

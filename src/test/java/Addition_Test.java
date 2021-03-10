@@ -8,10 +8,7 @@ public class Addition_Test {
     public static void before_Addition_test() {
         System.out.println("starting addition test");
     }
-    @Before
-    public void beforeEmailTest(){
-        System.out.println("Before Email Testing");
-    }
+
 
     @Test
     public void positive_and_positive_int() {
@@ -34,14 +31,10 @@ public class Addition_Test {
         assertEquals("addition of -6.5 and -1.5 is not working correctly",-8,mycalc.add(-6.5f, -1.5f),0.00001);
     }
 
-    @After
-    public void afterEmailTest(){
-        System.out.println("After Email Testing");
-    }
 
     @AfterClass
     public static void afterEmailClass(){
-        System.out.println("After Email Class Testing");
+        System.out.println("End addition test");
     }
 }
 
