@@ -1,12 +1,19 @@
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 import java.util.Scanner;
 
 public class Calculator {
 
     float ans;
     float x, y;
+    private static final Logger logger = LogManager.getLogger(Calculator.class);
+
 
     public float add(float x, float y){
-        return x+y;
+        float temp = x + y;
+        logger.info("add " + x + " + " + y + " = " + temp);
+        return temp;
     }
 
 
@@ -20,6 +27,7 @@ public class Calculator {
                 ans = add(x,y);
                 break;
             default:
+                logger.error("wrong option selected");
                 System.out.println("wrong option selected");
                 break;
         }

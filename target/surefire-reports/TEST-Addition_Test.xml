@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="Addition_Test" time="0.072" tests="3" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="Addition_Test" time="0.596" tests="3" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="gnome"/>
     <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
@@ -7,7 +7,7 @@
     <property name="java.specification.version" value="1.8"/>
     <property name="sun.cpu.isalist" value=""/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
-    <property name="java.class.path" value="/home/sai/IdeaProjects/CLI_calculator/target/test-classes:/home/sai/IdeaProjects/CLI_calculator/target/classes:/home/sai/.m2/repository/junit/junit/4.13.1/junit-4.13.1.jar:/home/sai/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
+    <property name="java.class.path" value="/home/sai/IdeaProjects/CLI_calculator/target/test-classes:/home/sai/IdeaProjects/CLI_calculator/target/classes:/home/sai/.m2/repository/junit/junit/4.13.1/junit-4.13.1.jar:/home/sai/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/sai/.m2/repository/org/apache/logging/log4j/log4j-api/2.14.0/log4j-api-2.14.0.jar:/home/sai/.m2/repository/org/apache/logging/log4j/log4j-core/2.14.0/log4j-core-2.14.0.jar:"/>
     <property name="java.vm.vendor" value="Private Build"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
@@ -17,8 +17,8 @@
     <property name="user.country" value="IN"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/amd64"/>
-    <property name="sun.java.command" value="/home/sai/IdeaProjects/CLI_calculator/target/surefire/surefirebooter9073775471217146194.jar /home/sai/IdeaProjects/CLI_calculator/target/surefire 2021-03-09T16-12-19_183-jvmRun1 surefire7436785471702558859tmp surefire_08707964069492063069tmp"/>
-    <property name="surefire.test.class.path" value="/home/sai/IdeaProjects/CLI_calculator/target/test-classes:/home/sai/IdeaProjects/CLI_calculator/target/classes:/home/sai/.m2/repository/junit/junit/4.13.1/junit-4.13.1.jar:/home/sai/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
+    <property name="sun.java.command" value="/home/sai/IdeaProjects/CLI_calculator/target/surefire/surefirebooter208189684857531683.jar /home/sai/IdeaProjects/CLI_calculator/target/surefire 2021-03-10T12-40-23_223-jvmRun1 surefire6856640336133450587tmp surefire_05304713456462525885tmp"/>
+    <property name="surefire.test.class.path" value="/home/sai/IdeaProjects/CLI_calculator/target/test-classes:/home/sai/IdeaProjects/CLI_calculator/target/classes:/home/sai/.m2/repository/junit/junit/4.13.1/junit-4.13.1.jar:/home/sai/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/sai/.m2/repository/org/apache/logging/log4j/log4j-api/2.14.0/log4j-api-2.14.0.jar:/home/sai/.m2/repository/org/apache/logging/log4j/log4j-core/2.14.0/log4j-core-2.14.0.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="/home/sai"/>
     <property name="user.language" value="en"/>
@@ -30,7 +30,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/home/sai/IdeaProjects/CLI_calculator/target/surefire/surefirebooter9073775471217146194.jar"/>
+    <property name="surefire.real.class.path" value="/home/sai/IdeaProjects/CLI_calculator/target/surefire/surefirebooter208189684857531683.jar"/>
     <property name="sun.boot.class.path" value="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/classes"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="1.8.0_282-8u282-b08-0ubuntu1~20.04-b08"/>
@@ -58,7 +58,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="positive_and_negative_int" classname="Addition_Test" time="0.008"/>
+  <testcase name="positive_and_negative_int" classname="Addition_Test" time="0.52"/>
   <testcase name="negative_and_negative_int" classname="Addition_Test" time="0.001"/>
-  <testcase name="positive_and_positive_int" classname="Addition_Test" time="0"/>
+  <testcase name="positive_and_positive_int" classname="Addition_Test" time="0.002"/>
 </testsuite>
