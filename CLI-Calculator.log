@@ -34,3 +34,17 @@
 2021-03-11 00:56:31.203 [Calculator.java] INFO  Calculator - add 6.5 + -1.5 = 5.0
 2021-03-11 00:56:31.211 [Calculator.java] INFO  Calculator - add -6.5 + -1.5 = -8.0
 2021-03-11 00:56:31.213 [Calculator.java] INFO  Calculator - add 3.5 + 1.5 = 5.0
+2021-03-11 13:53:02.099 [Calculator.java] INFO  Calculator - add 6.5 + -1.5 = 5.0
+2021-03-11 13:53:02.105 [Calculator.java] INFO  Calculator - add -6.5 + -1.5 = -8.0
+2021-03-11 13:53:02.106 [Calculator.java] INFO  Calculator - add 3.5 + 1.5 = 5.0
+2021-03-11 14:17:04.103/IST [Calculator.java] INFO  Calculator - add 6.5 + -1.5 = 5.0
+2021-03-11 14:17:04.107/IST [Calculator.java] INFO  Calculator - add -6.5 + -1.5 = -8.0
+2021-03-11 14:17:04.108/IST [Calculator.java] INFO  Calculator - add 3.5 + 1.5 = 5.0
+2021-03-11 14:23:04.216/IST [Calculator.java] INFO  Calculator - add 1.0 + 1.0 = 2.0
+2021-03-11 14:32:51,154 [Calculator.java] INFO  Calculator - add 6.5 + -1.5 = 5.0
+2021-03-11 14:32:51,170 [Calculator.java] INFO  Calculator - add -6.5 + -1.5 = -8.0
+2021-03-11 14:32:51,171 [Calculator.java] INFO  Calculator - add 3.5 + 1.5 = 5.0
+2021-03-11 14:43:31.528 [Calculator.java] INFO  Calculator - add 6.5 + -1.5 = 5.0
+2021-03-11 14:43:31.532 [Calculator.java] INFO  Calculator - add -6.5 + -1.5 = -8.0
+2021-03-11 14:43:31.533 [Calculator.java] INFO  Calculator - add 3.5 + 1.5 = 5.0
+2021-03-11 14:43:56.372 [Calculator.java] INFO  Calculator - add 1.0 + 1.0 = 2.0
