@@ -5,8 +5,11 @@ import static org.junit.Assert.assertEquals;
 
 public class Increment_Test {
     @BeforeClass
-    public static void before_Addition_test() {
+    public static void before_test() {
+        System.out.println("===============================================");
+
         System.out.println("starting increment test");
+        System.out.println("===============================================");
     }
 
 

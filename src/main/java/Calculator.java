@@ -64,6 +64,10 @@ public class Calculator {
     }
 
     public float nat_log(float x){
+        if(x < 0){
+            logger.error("natural log function does not work with -ve number");
+            return -1;
+        }
         float temp = (float) Math.log(x);
         logger.info("[LOG] - " + x);
         logger.info("[RESULT - LOG] - " + temp);

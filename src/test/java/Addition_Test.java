@@ -5,8 +5,10 @@ import static org.junit.Assert.*;
 public class Addition_Test {
 
     @BeforeClass
-    public static void before_Addition_test() {
+    public static void before_test() {
+        System.out.println("===============================================");
         System.out.println("starting addition test");
+        System.out.println("===============================================");
     }
 
 

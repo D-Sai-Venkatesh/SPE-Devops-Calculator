@@ -6,7 +6,10 @@ import static org.junit.Assert.assertEquals;
 public class Subtract_Test {
     @BeforeClass
     public static void before_Addition_test() {
+        System.out.println("===============================================");
+
         System.out.println("starting subtract test");
+        System.out.println("===============================================");
     }
 
 

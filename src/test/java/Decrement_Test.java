@@ -5,8 +5,11 @@ import static org.junit.Assert.assertEquals;
 
 public class Decrement_Test {
     @BeforeClass
-    public static void before_Addition_test() {
+    public static void before_test() {
+        System.out.println("===============================================");
+
         System.out.println("starting decrement test");
+        System.out.println("===============================================");
     }
 
 
