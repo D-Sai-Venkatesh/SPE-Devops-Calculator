@@ -31,10 +31,5 @@ public class Addition_Test {
         assertEquals("addition of -6.5 and -1.5 is not working correctly",-8,mycalc.add(-6.5f, -1.5f),0.00001);
     }
 
-
-    @AfterClass
-    public static void afterEmailClass(){
-        System.out.println("End addition test");
-    }
 }
 

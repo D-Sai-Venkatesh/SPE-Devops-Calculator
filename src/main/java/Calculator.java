@@ -12,10 +12,17 @@ public class Calculator {
 
     public float add(float x, float y){
         float temp = x + y;
-        logger.info("add " + x + " + " + y + " = " + temp);
+        logger.info("[ADDITION] - " + x + ", " + y);
+        logger.info("[RESULT - ADDITION] - " + temp);
         return temp;
     }
 
+    public float increment(float x){
+        float temp = x + 1;
+        logger.info("[INCREMENT] - " + x);
+        logger.info("[RESULT - INCREMENT] - " + temp);
+        return temp;
+    }
 
     public float evaluate(int op, float x, float y){
         switch(op)

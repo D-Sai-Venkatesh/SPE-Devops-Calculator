@@ -48,3 +48,89 @@
 2021-03-11 14:43:31.532 [Calculator.java] INFO  Calculator - add -6.5 + -1.5 = -8.0
 2021-03-11 14:43:31.533 [Calculator.java] INFO  Calculator - add 3.5 + 1.5 = 5.0
 2021-03-11 14:43:56.372 [Calculator.java] INFO  Calculator - add 1.0 + 1.0 = 2.0
+2021-03-11 17:32:55.152 [Calculator.java] INFO  Calculator - [ADDITION] - 6.5, -1.5
+2021-03-11 17:32:55.156 [Calculator.java] INFO  Calculator - [RESULT - ADDITION] - 5.0
+2021-03-11 17:32:55.158 [Calculator.java] INFO  Calculator - [ADDITION] - -6.5, -1.5
+2021-03-11 17:32:55.159 [Calculator.java] INFO  Calculator - [RESULT - ADDITION] - -8.0
+2021-03-11 17:32:55.160 [Calculator.java] INFO  Calculator - [ADDITION] - 3.5, 1.5
+2021-03-11 17:32:55.160 [Calculator.java] INFO  Calculator - [RESULT - ADDITION] - 5.0
+2021-03-11 17:41:17.413 [Calculator.java] INFO  Calculator - [ADDITION] - 6.5, -1.5
+2021-03-11 17:41:17.543 [Calculator.java] INFO  Calculator - [RESULT - ADDITION] - 5.0
+2021-03-11 17:41:17.546 [Calculator.java] INFO  Calculator - [ADDITION] - -6.5, -1.5
+2021-03-11 17:41:17.547 [Calculator.java] INFO  Calculator - [RESULT - ADDITION] - -8.0
+2021-03-11 17:41:17.549 [Calculator.java] INFO  Calculator - [ADDITION] - 3.5, 1.5
+2021-03-11 17:41:17.551 [Calculator.java] INFO  Calculator - [RESULT - ADDITION] - 5.0
+2021-03-11 17:43:55.792 [Calculator.java] INFO  Calculator - [ADDITION] - 6.5, -1.5
+2021-03-11 17:43:55.909 [Calculator.java] INFO  Calculator - [RESULT - ADDITION] - 5.0
+2021-03-11 17:43:55.912 [Calculator.java] INFO  Calculator - [ADDITION] - -6.5, -1.5
+2021-03-11 17:43:55.913 [Calculator.java] INFO  Calculator - [RESULT - ADDITION] - -8.0
+2021-03-11 17:43:55.915 [Calculator.java] INFO  Calculator - [ADDITION] - 3.5, 1.5
+2021-03-11 17:43:55.917 [Calculator.java] INFO  Calculator - [RESULT - ADDITION] - 5.0
+2021-03-11 17:44:30.675 [Calculator.java] INFO  Calculator - [ADDITION] - 6.5, -1.5
+2021-03-11 17:44:30.807 [Calculator.java] INFO  Calculator - [RESULT - ADDITION] - 5.0
+2021-03-11 17:44:30.814 [Calculator.java] INFO  Calculator - [ADDITION] - -6.5, -1.5
+2021-03-11 17:44:30.815 [Calculator.java] INFO  Calculator - [RESULT - ADDITION] - -8.0
+2021-03-11 17:44:30.817 [Calculator.java] INFO  Calculator - [ADDITION] - 3.5, 1.5
+2021-03-11 17:44:30.818 [Calculator.java] INFO  Calculator - [RESULT - ADDITION] - 5.0
+2021-03-11 17:47:41.211 [Calculator.java] INFO  Calculator - [ADDITION] - 6.5, -1.5
+2021-03-11 17:47:41.340 [Calculator.java] INFO  Calculator - [RESULT - ADDITION] - 5.0
+2021-03-11 17:47:41.343 [Calculator.java] INFO  Calculator - [ADDITION] - -6.5, -1.5
+2021-03-11 17:47:41.345 [Calculator.java] INFO  Calculator - [RESULT - ADDITION] - -8.0
+2021-03-11 17:47:41.346 [Calculator.java] INFO  Calculator - [ADDITION] - 3.5, 1.5
+2021-03-11 17:47:41.347 [Calculator.java] INFO  Calculator - [RESULT - ADDITION] - 5.0
+2021-03-11 17:48:56.579 [Calculator.java] INFO  Calculator - [ADDITION] - 6.5, -1.5
+2021-03-11 17:48:56.582 [Calculator.java] INFO  Calculator - [RESULT - ADDITION] - 5.0
+2021-03-11 17:48:56.584 [Calculator.java] INFO  Calculator - [ADDITION] - -6.5, -1.5
+2021-03-11 17:48:56.584 [Calculator.java] INFO  Calculator - [RESULT - ADDITION] - -8.0
+2021-03-11 17:48:56.585 [Calculator.java] INFO  Calculator - [ADDITION] - 3.5, 1.5
+2021-03-11 17:48:56.586 [Calculator.java] INFO  Calculator - [RESULT - ADDITION] - 5.0
+2021-03-11 21:47:44.505 [Calculator.java] INFO  Calculator - [ADDITION] - 6.5, -1.5
+2021-03-11 21:47:44.632 [Calculator.java] INFO  Calculator - [RESULT - ADDITION] - 5.0
+2021-03-11 21:47:44.635 [Calculator.java] INFO  Calculator - [ADDITION] - -6.5, -1.5
+2021-03-11 21:47:44.637 [Calculator.java] INFO  Calculator - [RESULT - ADDITION] - -8.0
+2021-03-11 21:47:44.639 [Calculator.java] INFO  Calculator - [ADDITION] - 3.5, 1.5
+2021-03-11 21:47:44.641 [Calculator.java] INFO  Calculator - [RESULT - ADDITION] - 5.0
+2021-03-11 21:48:12.197 [Calculator.java] INFO  Calculator - [ADDITION] - 1.0, 1.0
+2021-03-11 21:48:12.295 [Calculator.java] INFO  Calculator - [RESULT - ADDITION] - 2.0
+2021-03-11 21:53:34.854 [Calculator.java] INFO  Calculator - [ADDITION] - 6.5, -1.5
+2021-03-11 21:53:34.857 [Calculator.java] INFO  Calculator - [RESULT - ADDITION] - 5.0
+2021-03-11 21:53:34.859 [Calculator.java] INFO  Calculator - [ADDITION] - -6.5, -1.5
+2021-03-11 21:53:34.860 [Calculator.java] INFO  Calculator - [RESULT - ADDITION] - -8.0
+2021-03-11 21:53:34.861 [Calculator.java] INFO  Calculator - [ADDITION] - 3.5, 1.5
+2021-03-11 21:53:34.862 [Calculator.java] INFO  Calculator - [RESULT - ADDITION] - 5.0
+2021-03-11 21:54:01.646 [Calculator.java] INFO  Calculator - [ADDITION] - 6.5, -1.5
+2021-03-11 21:54:01.672 [Calculator.java] INFO  Calculator - [RESULT - ADDITION] - 5.0
+2021-03-11 21:54:01.681 [Calculator.java] INFO  Calculator - [ADDITION] - -6.5, -1.5
+2021-03-11 21:54:01.686 [Calculator.java] INFO  Calculator - [RESULT - ADDITION] - -8.0
+2021-03-11 21:54:01.691 [Calculator.java] INFO  Calculator - [ADDITION] - 3.5, 1.5
+2021-03-11 21:54:01.692 [Calculator.java] INFO  Calculator - [RESULT - ADDITION] - 5.0
+2021-03-11 21:55:51.301 [Calculator.java] INFO  Calculator - [ADDITION] - 6.5, -1.5
+2021-03-11 21:55:53.204 [Calculator.java] INFO  Calculator - [RESULT - ADDITION] - 5.0
+2021-03-11 21:55:54.430 [Calculator.java] INFO  Calculator - [ADDITION] - -6.5, -1.5
+2021-03-11 21:55:55.758 [Calculator.java] INFO  Calculator - [RESULT - ADDITION] - -8.0
+2021-03-11 21:55:56.910 [Calculator.java] INFO  Calculator - [ADDITION] - 3.5, 1.5
+2021-03-11 21:55:58.873 [Calculator.java] INFO  Calculator - [RESULT - ADDITION] - 5.0
+13/Mar/2021:12:30:58 274 [Calculator.java] [INFO ] Calculator - [ADDITION] - 6.5, -1.5
+13/Mar/2021:12:30:58 279 [Calculator.java] [INFO ] Calculator - [RESULT - ADDITION] - 5.0
+13/Mar/2021:12:30:58 283 [Calculator.java] [INFO ] Calculator - [ADDITION] - -6.5, -1.5
+13/Mar/2021:12:30:58 284 [Calculator.java] [INFO ] Calculator - [RESULT - ADDITION] - -8.0
+13/Mar/2021:12:30:58 285 [Calculator.java] [INFO ] Calculator - [ADDITION] - 3.5, 1.5
+13/Mar/2021:12:30:58 286 [Calculator.java] [INFO ] Calculator - [RESULT - ADDITION] - 5.0
+13/Mar/2021:12:33:16 059 [Calculator.java] [INFO] Calculator [ADDITION] - 6.5, -1.5
+13/Mar/2021:12:33:16 064 [Calculator.java] [INFO] Calculator [RESULT - ADDITION] - 5.0
+13/Mar/2021:12:33:16 066 [Calculator.java] [INFO] Calculator [ADDITION] - -6.5, -1.5
+13/Mar/2021:12:33:16 067 [Calculator.java] [INFO] Calculator [RESULT - ADDITION] - -8.0
+13/Mar/2021:12:33:16 068 [Calculator.java] [INFO] Calculator [ADDITION] - 3.5, 1.5
+13/Mar/2021:12:33:16 068 [Calculator.java] [INFO] Calculator [RESULT - ADDITION] - 5.0
+13/Mar/2021:12:34:40 869 [Calculator.java] [INFO] Calculator [ADDITION] - 6.5, -1.5
+13/Mar/2021:12:34:40 873 [Calculator.java] [INFO] Calculator [RESULT - ADDITION] - 5.0
+13/Mar/2021:12:34:40 875 [Calculator.java] [INFO] Calculator [ADDITION] - -6.5, -1.5
+13/Mar/2021:12:34:40 875 [Calculator.java] [INFO] Calculator [RESULT - ADDITION] - -8.0
+13/Mar/2021:12:34:40 876 [Calculator.java] [INFO] Calculator [ADDITION] - 3.5, 1.5
+13/Mar/2021:12:34:40 877 [Calculator.java] [INFO] Calculator [RESULT - ADDITION] - 5.0
+13/Mar/2021:12:36:39 494 [Calculator.java] [INFO] Calculator [ADDITION] - 6.5, -1.5
+13/Mar/2021:12:36:39 498 [Calculator.java] [INFO] Calculator [RESULT - ADDITION] - 5.0
+13/Mar/2021:12:36:39 499 [Calculator.java] [INFO] Calculator [ADDITION] - -6.5, -1.5
+13/Mar/2021:12:36:39 500 [Calculator.java] [INFO] Calculator [RESULT - ADDITION] - -8.0
+13/Mar/2021:12:36:39 501 [Calculator.java] [INFO] Calculator [ADDITION] - 3.5, 1.5
+13/Mar/2021:12:36:39 501 [Calculator.java] [INFO] Calculator [RESULT - ADDITION] - 5.0

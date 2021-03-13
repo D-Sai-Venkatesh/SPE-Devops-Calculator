@@ -1,0 +1,18 @@
+{"date":2021-03-13T12:30:58,274,"thread":"[main]","level":"INFO ","logger":"Calculator","message":"[ADDITION] - 6.5, -1.5"}
+{"date":2021-03-13T12:30:58,279,"thread":"[main]","level":"INFO ","logger":"Calculator","message":"[RESULT - ADDITION] - 5.0"}
+{"date":2021-03-13T12:30:58,283,"thread":"[main]","level":"INFO ","logger":"Calculator","message":"[ADDITION] - -6.5, -1.5"}
+{"date":2021-03-13T12:30:58,284,"thread":"[main]","level":"INFO ","logger":"Calculator","message":"[RESULT - ADDITION] - -8.0"}
+{"date":2021-03-13T12:30:58,285,"thread":"[main]","level":"INFO ","logger":"Calculator","message":"[ADDITION] - 3.5, 1.5"}
+{"date":2021-03-13T12:30:58,286,"thread":"[main]","level":"INFO ","logger":"Calculator","message":"[RESULT - ADDITION] - 5.0"}
+{"date":2021-03-13T12:33:16,059,"thread":"[main]","level":"INFO ","logger":"Calculator","message":"[ADDITION] - 6.5, -1.5"}
+{"date":2021-03-13T12:33:16,064,"thread":"[main]","level":"INFO ","logger":"Calculator","message":"[RESULT - ADDITION] - 5.0"}
+{"date":2021-03-13T12:33:16,066,"thread":"[main]","level":"INFO ","logger":"Calculator","message":"[ADDITION] - -6.5, -1.5"}
+{"date":2021-03-13T12:33:16,067,"thread":"[main]","level":"INFO ","logger":"Calculator","message":"[RESULT - ADDITION] - -8.0"}
+{"date":2021-03-13T12:33:16,068,"thread":"[main]","level":"INFO ","logger":"Calculator","message":"[ADDITION] - 3.5, 1.5"}
+{"date":2021-03-13T12:33:16,068,"thread":"[main]","level":"INFO ","logger":"Calculator","message":"[RESULT - ADDITION] - 5.0"}
+{"date":2021-03-13T12:34:40,869,"thread":"[main]","level":"INFO ","logger":"Calculator","message":"[ADDITION] - 6.5, -1.5"}
+{"date":2021-03-13T12:34:40,873,"thread":"[main]","level":"INFO ","logger":"Calculator","message":"[RESULT - ADDITION] - 5.0"}
+{"date":2021-03-13T12:34:40,875,"thread":"[main]","level":"INFO ","logger":"Calculator","message":"[ADDITION] - -6.5, -1.5"}
+{"date":2021-03-13T12:34:40,875,"thread":"[main]","level":"INFO ","logger":"Calculator","message":"[RESULT - ADDITION] - -8.0"}
+{"date":2021-03-13T12:34:40,876,"thread":"[main]","level":"INFO ","logger":"Calculator","message":"[ADDITION] - 3.5, 1.5"}
+{"date":2021-03-13T12:34:40,877,"thread":"[main]","level":"INFO ","logger":"Calculator","message":"[RESULT - ADDITION] - 5.0"}
