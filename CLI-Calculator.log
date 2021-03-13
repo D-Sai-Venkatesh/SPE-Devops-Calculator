@@ -24,3 +24,31 @@
 13/Mar/2021:17:40:03 217 [Calculator.java] [INFO] Calculator [RESULT - ADDITION] - 5.0
 13/Mar/2021:17:41:14 689 [Calculator.java] [INFO] Calculator [ADDITION] - 1.0, 1.0
 13/Mar/2021:17:41:14 693 [Calculator.java] [INFO] Calculator [RESULT - ADDITION] - 2.0
+13/Mar/2021:18:18:19 590 [Calculator.java] [INFO] Calculator [INCREMENT] - 1.0
+13/Mar/2021:18:18:19 598 [Calculator.java] [INFO] Calculator [RESULT - INCREMENT] - 2.0
+13/Mar/2021:18:18:41 196 [Calculator.java] [INFO] Calculator [ADDITION] - 3.0, 4.0
+13/Mar/2021:18:18:41 202 [Calculator.java] [INFO] Calculator [RESULT - ADDITION] - 7.0
+13/Mar/2021:18:18:55 956 [Calculator.java] [INFO] Calculator [DECREMENT] - 2.0
+13/Mar/2021:18:18:55 961 [Calculator.java] [INFO] Calculator [RESULT - SUBTRACT] - 1.0
+13/Mar/2021:18:19:15 215 [Calculator.java] [INFO] Calculator [SUBTRACT] - 4.0, 3.0
+13/Mar/2021:18:19:15 222 [Calculator.java] [INFO] Calculator [RESULT - SUBTRACT] - 1.0
+13/Mar/2021:18:44:17 234 [Calculator.java] [INFO] Calculator [INCREMENT] - -6.0
+13/Mar/2021:18:44:17 238 [Calculator.java] [INFO] Calculator [RESULT - INCREMENT] - -5.0
+13/Mar/2021:18:44:17 241 [Calculator.java] [INFO] Calculator [INCREMENT] - 4.0
+13/Mar/2021:18:44:17 242 [Calculator.java] [INFO] Calculator [RESULT - INCREMENT] - 5.0
+13/Mar/2021:18:44:17 246 [Calculator.java] [INFO] Calculator [SUBTRACT] - 5.5, 0.5
+13/Mar/2021:18:44:17 249 [Calculator.java] [INFO] Calculator [RESULT - SUBTRACT] - 5.0
+13/Mar/2021:18:44:17 250 [Calculator.java] [INFO] Calculator [SUBTRACT] - 4.5, -0.5
+13/Mar/2021:18:44:17 250 [Calculator.java] [INFO] Calculator [RESULT - SUBTRACT] - 5.0
+13/Mar/2021:18:44:17 251 [Calculator.java] [INFO] Calculator [SUBTRACT] - -9.5, -1.5
+13/Mar/2021:18:44:17 252 [Calculator.java] [INFO] Calculator [RESULT - SUBTRACT] - -8.0
+13/Mar/2021:18:44:17 255 [Calculator.java] [INFO] Calculator [ADDITION] - 3.5, 1.5
+13/Mar/2021:18:44:17 256 [Calculator.java] [INFO] Calculator [RESULT - ADDITION] - 5.0
+13/Mar/2021:18:44:17 260 [Calculator.java] [INFO] Calculator [ADDITION] - 6.5, -1.5
+13/Mar/2021:18:44:17 261 [Calculator.java] [INFO] Calculator [RESULT - ADDITION] - 5.0
+13/Mar/2021:18:44:17 263 [Calculator.java] [INFO] Calculator [ADDITION] - -6.5, -1.5
+13/Mar/2021:18:44:17 263 [Calculator.java] [INFO] Calculator [RESULT - ADDITION] - -8.0
+13/Mar/2021:18:44:17 266 [Calculator.java] [INFO] Calculator [DECREMENT] - -4.0
+13/Mar/2021:18:44:17 266 [Calculator.java] [INFO] Calculator [RESULT - DECREMENT] - -5.0
+13/Mar/2021:18:44:17 269 [Calculator.java] [INFO] Calculator [DECREMENT] - 6.0
+13/Mar/2021:18:44:17 269 [Calculator.java] [INFO] Calculator [RESULT - DECREMENT] - 5.0
