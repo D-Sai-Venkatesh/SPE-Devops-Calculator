@@ -179,3 +179,75 @@
 13/Mar/2021:19:59:08 061 [Calculator.java] [INFO] Calculator [RESULT - POWER] - -8.0
 13/Mar/2021:19:59:08 074 [Calculator.java] [INFO] Calculator [POWER] - -0.5, -3.0
 13/Mar/2021:19:59:08 082 [Calculator.java] [INFO] Calculator [RESULT - POWER] - -8.0
+17/Mar/2021:16:43:30 340 [Calculator.java] [INFO] Calculator [INCREMENT] - -6.0
+17/Mar/2021:16:43:30 344 [Calculator.java] [INFO] Calculator [RESULT - INCREMENT] - -5.0
+17/Mar/2021:16:43:30 345 [Calculator.java] [INFO] Calculator [INCREMENT] - 4.0
+17/Mar/2021:16:43:30 346 [Calculator.java] [INFO] Calculator [RESULT - INCREMENT] - 5.0
+17/Mar/2021:16:43:30 349 [Calculator.java] [INFO] Calculator [SUBTRACT] - 5.5, 0.5
+17/Mar/2021:16:43:30 350 [Calculator.java] [INFO] Calculator [RESULT - SUBTRACT] - 5.0
+17/Mar/2021:16:43:30 351 [Calculator.java] [INFO] Calculator [SUBTRACT] - 4.5, -0.5
+17/Mar/2021:16:43:30 351 [Calculator.java] [INFO] Calculator [RESULT - SUBTRACT] - 5.0
+17/Mar/2021:16:43:30 352 [Calculator.java] [INFO] Calculator [SUBTRACT] - -9.5, -1.5
+17/Mar/2021:16:43:30 352 [Calculator.java] [INFO] Calculator [RESULT - SUBTRACT] - -8.0
+17/Mar/2021:16:43:30 355 [Calculator.java] [INFO] Calculator [ADDITION] - 3.5, 1.5
+17/Mar/2021:16:43:30 355 [Calculator.java] [INFO] Calculator [RESULT - ADDITION] - 5.0
+17/Mar/2021:16:43:30 356 [Calculator.java] [INFO] Calculator [ADDITION] - 6.5, -1.5
+17/Mar/2021:16:43:30 356 [Calculator.java] [INFO] Calculator [RESULT - ADDITION] - 5.0
+17/Mar/2021:16:43:30 359 [Calculator.java] [INFO] Calculator [ADDITION] - -6.5, -1.5
+17/Mar/2021:16:43:30 360 [Calculator.java] [INFO] Calculator [RESULT - ADDITION] - -8.0
+17/Mar/2021:16:43:30 361 [Calculator.java] [ERROR] Calculator natural log function does not work with -ve number
+17/Mar/2021:16:43:30 362 [Calculator.java] [INFO] Calculator [LOG] - 10.0
+17/Mar/2021:16:43:30 363 [Calculator.java] [INFO] Calculator [RESULT - LOG] - 2.3025851
+17/Mar/2021:16:43:30 365 [Calculator.java] [ERROR] Calculator factorial function does not work with -ve number
+17/Mar/2021:16:43:30 367 [Calculator.java] [INFO] Calculator [FACTORIAL] - 5
+17/Mar/2021:16:43:30 369 [Calculator.java] [INFO] Calculator [RESULT - FACTORIAL] - 120
+17/Mar/2021:16:43:30 372 [Calculator.java] [INFO] Calculator [DECREMENT] - -4.0
+17/Mar/2021:16:43:30 372 [Calculator.java] [INFO] Calculator [RESULT - DECREMENT] - -5.0
+17/Mar/2021:16:43:30 373 [Calculator.java] [INFO] Calculator [DECREMENT] - 6.0
+17/Mar/2021:16:43:30 374 [Calculator.java] [INFO] Calculator [RESULT - DECREMENT] - 5.0
+17/Mar/2021:16:43:30 376 [Calculator.java] [ERROR] Calculator square root function is given -ve number
+17/Mar/2021:16:43:30 377 [Calculator.java] [INFO] Calculator [SQRT] - 25.0
+17/Mar/2021:16:43:30 378 [Calculator.java] [INFO] Calculator [RESULT - SQRT] - 5.0
+17/Mar/2021:16:43:30 380 [Calculator.java] [INFO] Calculator [POWER] - 2.0, 3.0
+17/Mar/2021:16:43:30 380 [Calculator.java] [INFO] Calculator [RESULT - POWER] - 8.0
+17/Mar/2021:16:43:30 381 [Calculator.java] [INFO] Calculator [POWER] - -2.0, 3.0
+17/Mar/2021:16:43:30 382 [Calculator.java] [INFO] Calculator [RESULT - POWER] - -8.0
+17/Mar/2021:16:43:30 383 [Calculator.java] [INFO] Calculator [POWER] - -0.5, -3.0
+17/Mar/2021:16:43:30 383 [Calculator.java] [INFO] Calculator [RESULT - POWER] - -8.0
+17/Mar/2021:16:46:52 410 [Calculator.java] [INFO] Calculator [DECREMENT] - 2.0
+17/Mar/2021:16:46:52 418 [Calculator.java] [INFO] Calculator [RESULT - DECREMENT] - 1.0
+17/Mar/2021:17:05:16 610 [Calculator.java] [INFO] Calculator [INCREMENT] - -6.0
+17/Mar/2021:17:05:16 614 [Calculator.java] [INFO] Calculator [RESULT - INCREMENT] - -5.0
+17/Mar/2021:17:05:16 615 [Calculator.java] [INFO] Calculator [INCREMENT] - 4.0
+17/Mar/2021:17:05:16 616 [Calculator.java] [INFO] Calculator [RESULT - INCREMENT] - 5.0
+17/Mar/2021:17:05:16 621 [Calculator.java] [INFO] Calculator [SUBTRACT] - 5.5, 0.5
+17/Mar/2021:17:05:16 622 [Calculator.java] [INFO] Calculator [RESULT - SUBTRACT] - 5.0
+17/Mar/2021:17:05:16 623 [Calculator.java] [INFO] Calculator [SUBTRACT] - 4.5, -0.5
+17/Mar/2021:17:05:16 623 [Calculator.java] [INFO] Calculator [RESULT - SUBTRACT] - 5.0
+17/Mar/2021:17:05:16 625 [Calculator.java] [INFO] Calculator [SUBTRACT] - -9.5, -1.5
+17/Mar/2021:17:05:16 625 [Calculator.java] [INFO] Calculator [RESULT - SUBTRACT] - -8.0
+17/Mar/2021:17:05:16 628 [Calculator.java] [INFO] Calculator [ADDITION] - 3.5, 1.5
+17/Mar/2021:17:05:16 629 [Calculator.java] [INFO] Calculator [RESULT - ADDITION] - 5.0
+17/Mar/2021:17:05:16 630 [Calculator.java] [INFO] Calculator [ADDITION] - 6.5, -1.5
+17/Mar/2021:17:05:16 630 [Calculator.java] [INFO] Calculator [RESULT - ADDITION] - 5.0
+17/Mar/2021:17:05:16 631 [Calculator.java] [INFO] Calculator [ADDITION] - -6.5, -1.5
+17/Mar/2021:17:05:16 632 [Calculator.java] [INFO] Calculator [RESULT - ADDITION] - -8.0
+17/Mar/2021:17:05:16 635 [Calculator.java] [ERROR] Calculator natural log function does not work with -ve number
+17/Mar/2021:17:05:16 638 [Calculator.java] [INFO] Calculator [LOG] - 10.0
+17/Mar/2021:17:05:16 639 [Calculator.java] [INFO] Calculator [RESULT - LOG] - 2.3025851
+17/Mar/2021:17:05:16 641 [Calculator.java] [ERROR] Calculator factorial function does not work with -ve number
+17/Mar/2021:17:05:16 642 [Calculator.java] [INFO] Calculator [FACTORIAL] - 5
+17/Mar/2021:17:05:16 642 [Calculator.java] [INFO] Calculator [RESULT - FACTORIAL] - 120
+17/Mar/2021:17:05:16 645 [Calculator.java] [INFO] Calculator [DECREMENT] - -4.0
+17/Mar/2021:17:05:16 645 [Calculator.java] [INFO] Calculator [RESULT - DECREMENT] - -5.0
+17/Mar/2021:17:05:16 646 [Calculator.java] [INFO] Calculator [DECREMENT] - 6.0
+17/Mar/2021:17:05:16 647 [Calculator.java] [INFO] Calculator [RESULT - DECREMENT] - 5.0
+17/Mar/2021:17:05:16 649 [Calculator.java] [ERROR] Calculator square root function is given -ve number
+17/Mar/2021:17:05:16 650 [Calculator.java] [INFO] Calculator [SQRT] - 25.0
+17/Mar/2021:17:05:16 650 [Calculator.java] [INFO] Calculator [RESULT - SQRT] - 5.0
+17/Mar/2021:17:05:16 655 [Calculator.java] [INFO] Calculator [POWER] - 2.0, 3.0
+17/Mar/2021:17:05:16 656 [Calculator.java] [INFO] Calculator [RESULT - POWER] - 8.0
+17/Mar/2021:17:05:16 657 [Calculator.java] [INFO] Calculator [POWER] - -2.0, 3.0
+17/Mar/2021:17:05:16 657 [Calculator.java] [INFO] Calculator [RESULT - POWER] - -8.0
+17/Mar/2021:17:05:16 658 [Calculator.java] [INFO] Calculator [POWER] - -0.5, -3.0
+17/Mar/2021:17:05:16 659 [Calculator.java] [INFO] Calculator [RESULT - POWER] - -8.0

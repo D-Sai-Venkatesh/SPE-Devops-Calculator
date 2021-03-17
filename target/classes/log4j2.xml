@@ -4,7 +4,7 @@
         <Console name="ConsoleAppender" target="SYSTEM_OUT">
             <PatternLayout pattern="%d{HH:mm:ss.SSS}{IST} [%F] %-5level %logger{36} - %msg%n"/>
         </Console>
-        <File name="FileAppender" fileName="CLI-Calculator.log" immediateFlush="false" append="true">
+        <File name="FileAppender" fileName="CLI_Calculator.log" immediateFlush="false" append="true">
             <PatternLayout pattern="%d{dd/MMM/yyy:HH:mm:ss SSS}{IST} [%F] [%level] %logger{36} %msg%n"/>
         </File>
     </Appenders>
